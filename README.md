@@ -1,5 +1,6 @@
 # EpiTrainer
 
+TODO: Augment using Azure from AZ-900 material & send to Bp
 EpiTrainer connects a physical Arduino / ESP board to a small web interface that sends a “next track” command over the local network.
 
 The repository is split into two parts:
