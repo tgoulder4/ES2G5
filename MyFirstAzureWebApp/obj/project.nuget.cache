@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/bBMz+v7Cw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\babyb\\Documents\\Coding\\bupa\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babyb\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
